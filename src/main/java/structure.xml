@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--  this is the order of the file as per the concept of the spring core-->
+
+<!-- 
+	
+	
+	spring core
+	spring ref
+	spring ci
+	spring collection -> ci
+	spring lifecycle
+	autowire
+	standalone
+	steriotype (component , value )
+	spring expression
+	removing xml file
+	
+	
+	
+	
+-->
