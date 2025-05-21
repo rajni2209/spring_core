@@ -49,4 +49,4 @@ This repository contains practice code for core concepts of the **Spring Framewo
 
 ---
 
-📌 _This project is for learning purposes only and serves as a foundation for mastering the Spring ecosystem._
+📌 _This is for learning purposes only and serves as a foundation for mastering the Spring ecosystem._
